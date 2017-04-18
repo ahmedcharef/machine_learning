@@ -10,3 +10,18 @@ While many machine learning algorithms have been around for a long time, the abi
 Among the different types of ML tasks, a crucial distinction is drawn between supervised and unsupervised learning:
 * Supervised machine learning: The program is “trained” on a pre-defined set of “training examples”, which then facilitate its ability to reach an accurate conclusion when given new data.
 * Unsupervised machine learning: The program is given a bunch of data and must find patterns and relationships therein.
+
+
+Copyright [2016] [Ahmed Charef]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
